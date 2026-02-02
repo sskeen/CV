@@ -1,6 +1,6 @@
 # CV / resume
 
-This repo is routinely updated with my current CV / resume: [simone_skeen_cv.pdf](https://github.com/sskeen/CV/blob/main/simone_skeen_cv.pdf). 
+This repo is routinely updated with my current CV / resume: 📃 [simone_skeen_cv.pdf](https://github.com/sskeen/CV/blob/main/simone_skeen_cv.pdf). 
 
 **This version is in a deliberately maximalist format** that combines both academic CV and professional resume conventions, spanning my entire work history. Tailored application materials, by design, may highlight relevant positions, skills, and deliverables. 
 
